@@ -1,4 +1,4 @@
-# Practical Backend & Systems Study Guide (Easy Mode)
+# Practical Backend & Systems Study Guide
 
 A plain-English guide to modern backend systems, infrastructure, security, and authentication.
 
